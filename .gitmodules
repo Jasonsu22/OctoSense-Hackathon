@@ -1,0 +1,28 @@
+[submodule "OctoSense"]
+	path = OctoSense
+	url = https://github.com/OctoSense-org/OctoSense.git
+	branch = main
+[submodule "OctoSense-App-Hub"]
+	path = OctoSense-App-Hub
+	url = https://github.com/OctoSense-org/OctoSense-App-Hub.git
+	branch = main
+[submodule "OctoSense-App-Flow"]
+	path = OctoSense-App-Flow
+	url = https://github.com/OctoSense-org/OctoSense-App-Flow.git
+	branch = main
+[submodule "OctoScript"]
+	path = OctoScript
+	url = https://github.com/OctoSense-org/OctoScript.git
+	branch = main
+[submodule "OctoScript-Makepad"]
+	path = OctoScript-Makepad
+	url = https://github.com/OctoSense-org/OctoScript-Makepad.git
+	branch = main
+[submodule "makepad"]
+	path = makepad
+	url = https://github.com/OctoSense-org/makepad.git
+	branch = main
+[submodule "AgentMail"]
+	path = AgentMail
+	url = https://github.com/Jasonsu22/AgentMail.git
+	branch = master
